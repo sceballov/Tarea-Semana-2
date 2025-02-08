@@ -26,3 +26,4 @@ E:\UAPA\ProyectosC#\Resumen01\Resumen01\obj\Debug\net8.0\refint\Resumen01.dll
 E:\UAPA\ProyectosC#\Resumen01\Resumen01\obj\Debug\net8.0\Resumen01.pdb
 E:\UAPA\ProyectosC#\Resumen01\Resumen01\obj\Debug\net8.0\Resumen01.genruntimeconfig.cache
 E:\UAPA\ProyectosC#\Resumen01\Resumen01\obj\Debug\net8.0\ref\Resumen01.dll
+E:\UAPA\ProyectosC#\Resumen01\Resumen01\obj\Debug\net8.0\Resumen01.sourcelink.json
